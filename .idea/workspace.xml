@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5ee5785-ddea-425e-824f-cfc067618686" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/json/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/page.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/json/11.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/json/12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/json/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/json.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/json.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks/11.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/11.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks/12" beforeDir="false" afterPath="$PROJECT_DIR$/json/12" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1noZNmVFsLS8CX3mhBsUDS890zD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/json" />
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/routes" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="api.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/routes/api.js" working-dir="$PROJECT_DIR$/routes">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.api.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5ee5785-ddea-425e-824f-cfc067618686" name="Default Changelist" comment="" />
+      <created>1612058368246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612058368246</updated>
+      <workItem from="1612058370164" duration="1785000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="285" key="GridCell.Tab.0.bottom" timestamp="1612059806268">
+      <screen x="-77" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="285" key="GridCell.Tab.0.bottom/-77.-1057.1920.1057/0.23.1792.1050@-77.-1057.1920.1057" timestamp="1612059806267" />
+    <state width="1878" height="285" key="GridCell.Tab.0.center" timestamp="1612059806267">
+      <screen x="-77" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="285" key="GridCell.Tab.0.center/-77.-1057.1920.1057/0.23.1792.1050@-77.-1057.1920.1057" timestamp="1612059806267" />
+    <state width="1878" height="285" key="GridCell.Tab.0.left" timestamp="1612059806266">
+      <screen x="-77" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="285" key="GridCell.Tab.0.left/-77.-1057.1920.1057/0.23.1792.1050@-77.-1057.1920.1057" timestamp="1612059806266" />
+    <state width="1878" height="285" key="GridCell.Tab.0.right" timestamp="1612059806267">
+      <screen x="-77" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="285" key="GridCell.Tab.0.right/-77.-1057.1920.1057/0.23.1792.1050@-77.-1057.1920.1057" timestamp="1612059806267" />
+    <state x="688" y="-612" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612058689667">
+      <screen x="-77" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="688" y="-612" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-77.-1057.1920.1057/0.23.1792.1050@-77.-1057.1920.1057" timestamp="1612058689667" />
+  </component>
+</project>

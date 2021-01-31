@@ -350,7 +350,7 @@ https://n1d8hlyh02.execute-api.ap-northeast-2.amazonaws.com/dev/api/product-opti
 {}
 
 
-https://n1d8hlyh02.execute-api.ap-northeast-2.amazonaws.com/dev/api/stocks/71
+https://n1d8hlyh02.execute-api.ap-northeast-2.amazonaws.com/dev/api/json/71
 
 {
 "71": {
@@ -390,7 +390,7 @@ https://n1d8hlyh02.execute-api.ap-northeast-2.amazonaws.com/dev/api/stocks/71
 
 
 
-https://n1d8hlyh02.execute-api.ap-northeast-2.amazonaws.com/dev/api/stocks/81
+https://n1d8hlyh02.execute-api.ap-northeast-2.amazonaws.com/dev/api/json/81
 {
 "81": {
 "stock": 0,
@@ -398,7 +398,7 @@ https://n1d8hlyh02.execute-api.ap-northeast-2.amazonaws.com/dev/api/stocks/81
 }
 }
 
-https://n1d8hlyh02.execute-api.ap-northeast-2.amazonaws.com/dev/api/stocks/82
+https://n1d8hlyh02.execute-api.ap-northeast-2.amazonaws.com/dev/api/json/82
 {
 "82": {
 "stock": 6,

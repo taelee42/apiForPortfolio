@@ -1,0 +1,163 @@
+[
+  [
+    {
+      "id": "11",
+      "optionName": "기본",
+      "parentOptionId": "1"
+    },
+    {
+      "id": "12",
+      "optionName": "제주도",
+      "parentOptionId": "1"
+    },
+    {
+      "id": "13",
+      "optionName": "베이베",
+      "parentOptionId": "1"
+    },
+    {
+      "id": "14",
+      "optionName": "땅콩",
+      "parentOptionId": "1"
+    },
+    {
+      "id": "15",
+      "optionName": "자는 인형",
+      "parentOptionId": "1"
+    }
+  ],
+
+
+  [
+    {
+      "id": "21",
+      "optionName": "기본",
+      "parentOptionId": "2"
+    },
+    {
+      "id": "22",
+      "optionName": "서핑",
+      "parentOptionId": "2"
+    },
+    {
+      "id": "23",
+      "optionName": "베이비",
+      "parentOptionId": "2"
+    },
+    {
+      "id": "24",
+      "optionName": "한정판",
+      "parentOptionId": "2"
+    },
+    {
+      "id": "25",
+      "optionName": "특대 사이즈",
+      "parentOptionId": "2"
+    }
+  ],
+
+
+  [
+    {
+      "id": "51",
+      "optionName": "기본",
+      "parentOptionId": "5"
+    },
+    {
+      "id": "52",
+      "optionName": "꾸벅꾸벅",
+      "parentOptionId": "5"
+    },
+    {
+      "id": "53",
+      "optionName": "리틀프렌즈",
+      "parentOptionId": "5"
+    },
+    {
+      "id": "54",
+      "optionName": "꾸벅꾸벅",
+      "parentOptionId": "5"
+    }
+  ],
+
+
+  [
+    {
+      "id": "61",
+      "optionName": "기본",
+      "parentOptionId": "6"
+    },
+    {
+      "id": "62",
+      "optionName": "콧물",
+      "parentOptionId": "6"
+    },
+    {
+      "id": "63",
+      "optionName": "리틀 프렌즈",
+      "parentOptionId": "6"
+    },
+    {
+      "id": "64",
+      "optionName": "대형 사이즈",
+      "parentOptionId": "6"
+    },
+    {
+      "id": "65",
+      "optionName": "웃는모습",
+      "parentOptionId": "6"
+    }
+  ],
+
+  [
+    {
+      "id": "71",
+      "optionName": "기본",
+      "parentOptionId": "7"
+    },
+    {
+      "id": "72",
+      "optionName": "댄스",
+      "parentOptionId": "7"
+    },
+    {
+      "id": "73",
+      "optionName": "리틀 프렌즈",
+      "parentOptionId": "7"
+    },
+    {
+      "id": "74",
+      "optionName": "베이비 필로우",
+      "parentOptionId": "7"
+    }
+  ],
+
+
+  [
+    {
+      "id": "81",
+      "optionName": "기본",
+      "parentOptionId": "8"
+    },
+    {
+      "id": "82",
+      "optionName": "중형 사이즈",
+      "parentOptionId": "8"
+    },
+    {
+      "id": "83",
+      "optionName": "특대 사이즈",
+      "parentOptionId": "8"
+    },
+    {
+      "id": "84",
+      "optionName": "한정판",
+      "parentOptionId": "8"
+    }
+  ]
+
+
+
+
+
+]
